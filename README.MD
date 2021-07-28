@@ -1,5 +1,3 @@
-### English Version
-
 Hi, I'm Alexandre Vessereau, a data scientist primarly interested in Natural Language Processing and Finance.
 I did a Master in Economy and Psychology at Université Paris-I Panthéon-Sorbonne, Université de Paris and the Paris School of Economics.
 
