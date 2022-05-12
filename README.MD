@@ -1,4 +1,4 @@
-Hi, I'm Alexandre Vessereau, a data scientist primarly interested in Natural Language Processing and Finance.
+Hi, I'm Alexandre Vessereau, a data scientist primarly interested in Natural Language Processing, Behavioral Economy, Marketing and Finance.
 I graduated with a Master in Economy and Psychology at Université Paris-I Panthéon-Sorbonne, Université de Paris and the Paris School of Economics, in 2021.
 
 I'm currently a Data Science teacher on various technologies, mainly Alteryx.
