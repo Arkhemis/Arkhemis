@@ -1,4 +1,4 @@
-Hi, I'm Alexandre Vessereau, a data scientist primarly interested in how can we apply Natural Language Processing and machine learning methods on subjets as Behavioral Economics or Marketing.
+Hi, I'm Alexandre Vessereau, a data scientist and economist primarly interested in how can we apply Natural Language Processing and machine learning methods on subjets as Behavioral Economics or Marketing.
 I graduated with a Master in Economy, Specialisation in Behavioral Economics, at Université Paris-I Panthéon-Sorbonne, Université de Paris and the Paris School of Economics, in 2021.
 
 I'm currently a Data Science teacher on various technologies, mainly Alteryx.
