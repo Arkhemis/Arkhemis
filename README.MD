@@ -3,4 +3,4 @@ I graduated with a Master in Economy and Psychology at Université Paris-I Panth
 
 I'm currently a Data Science teacher on various technologies, mainly Alteryx.
 
-The repository for my M2 thesis can be found here: https://github.com/Arkhemis/M2_EcoPsycho_Thesis, while its corresponding paper can be found here: https://alexandre-vessereau.netlify.app/publication/personality-games/
+The repository for my M2 thesis can be found here: https://github.com/Arkhemis/M2_EcoPsycho_Thesis. Its corresponding paper is no longer available, due to a submission process.
