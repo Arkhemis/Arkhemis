@@ -1,4 +1,4 @@
-Hi, I'm Alexandre V., a data scientist and economist primarly interested in how can we apply machine learning methods on Behavioral Economics or Marketing topics, especially in the gaming industry.
+Hi, I'm Alexandre V., a data analyst/engineer/scientist (depends on the amount of coffee drunk generally) and economist primarly interested in how can we apply machine learning methods on Behavioral Economics or Marketing topics, especially in the gaming industry.
 I graduated with a Master in Economy, Specialisation in Behavioral Economics, at Université Paris-I Panthéon-Sorbonne, Université de Paris and the Paris School of Economics, in 2021.
 
 Worked on various technologies, latest is to deliver an full-fleshed mobile app developed on Flutter/Supabase.
