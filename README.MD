@@ -2,16 +2,9 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![Godot](https://img.shields.io/badge/godot-4.x-blue.svg)
 ![dbt](https://img.shields.io/badge/dbt-1.x-orange.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkhemis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=arkhemis&theme=radical&hide_border=true&background=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkhemis&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Python+%26+Data+Engineer+%F0%9F%90%8D;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%90%8D;Newbie+Game+Developer+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 
 Hi,
