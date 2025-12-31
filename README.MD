@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=arkhemis&color=blue)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
