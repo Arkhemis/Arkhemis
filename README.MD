@@ -6,6 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=white)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 
@@ -14,6 +15,6 @@ Hi,
 I'm Alexandre V., a data analyst/engineer/scientist (depends on the amount of coffee drunk generally) and economist primarly interested in how can we apply machine learning methods on Behavioral Economics or Marketing topics, especially in the gaming industry.
 I graduated with a Master in Economy, Specialisation in Behavioral Economics, at Université Paris-I Panthéon-Sorbonne, Université de Paris and the Paris School of Economics, in 2021.
 
-Worked on various technologies, currently a Data Engineer at Pictarine.
+Worked on various technologies, currently as a Data Engineer at Pictarine.
 
 The repository for my M2 thesis can be found here: https://github.com/Arkhemis/steam-reviews-analysis. Its corresponding paper is no longer available, due to a submission process in a journal. It will be back as soon as it has been published.
