@@ -7,6 +7,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-2D2B52?logo=cachyos&logoColor=white)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 
