@@ -12,9 +12,8 @@
 
 Hi,
 
-I'm Alexandre V., a data analyst/engineer/scientist (depends on the amount of coffee drunk generally) and economist primarly interested in how can we apply machine learning methods on Behavioral Economics or Marketing topics, especially in the gaming industry.
-I graduated with a Master in Economy, Specialisation in Behavioral Economics, at Université Paris-I Panthéon-Sorbonne, Université de Paris and the Paris School of Economics, in 2021.
+I'm Alexandre V., a data engineer and behavioral economist primarly interested in how can we apply machine learning methods on Behavioral Economics or Marketing topics, especially in the gaming industry.
 
-Worked on various technologies, currently as a Data Engineer at Pictarine.
+I've graduated with a double Master's in Economics and Psychology, with a Specialisation in Behavioural Economics, from Université Paris-I Panthéon-Sorbonne, Université de Paris, and the Paris School of Economics, in 2021.
 
-The repository for my M2 thesis can be found here: https://github.com/Arkhemis/steam-reviews-analysis. Its corresponding paper is no longer available, due to a submission process in a journal. It will be back as soon as it has been published.
+Currently working as a Data Engineer at Pictarine.
